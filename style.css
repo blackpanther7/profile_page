@@ -1,0 +1,27 @@
+img {
+  height: 287px;
+  width: 407px;
+  border-radius: 19px;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+}
+
+.count1 {
+  display: flex;
+  justify-content: center;
+}
+.countner{
+  margin: 3px;
+  border: 2px solid red;
+  border-radius: 19px;
+}
+body{
+  background-color: pink;
+}
+h1{
+  font-colo:red;
+  font-size:100;
+}
